@@ -1,4 +1,4 @@
-# CodeAlpha Task 3 — Car Price Prediction with Machine Learning
+# Car Price Prediction with Machine Learning
 
 ## Objective
 Build regression models to predict used-car selling prices from car-related features. The workflow covers preprocessing, feature engineering, exploratory analysis, model training, and evaluation.
